@@ -1,0 +1,4 @@
+name: Ivents
+version: '${project.version}'
+main: jp.thirtycraft.ivents.Ivents
+api-version: 1.19
